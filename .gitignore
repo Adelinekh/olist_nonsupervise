@@ -1,4 +1,5 @@
 .csv
+env
 archive
 .DS_Store
 .huskyrc.json
